@@ -11,8 +11,7 @@
 
 - Currently working with NLP (Natural Language Programming) for social media analytics and cyberbullying detection <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 
-- Know about more of my experiences at : :octocat: [My Resume](https://drive.google.com/file/d/1lQnrciGf3ZzTY-y9rcGtdlNW9uHl6VjX/view?usp=sharing)
-
+- Know about more of my experiences at : :octocat: [My Resume](https://github.com/snigdhabose/Resume/raw/main/SnigdhaBose_Resume_2025_Github.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
