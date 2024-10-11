@@ -7,9 +7,11 @@
 
 - I'm working as a Senior Full-Stack Developer 👩‍💻.
 
-- A computer science engineer 🎓 having experience working in the financial services industry 💸 as a developer, a home automation startup as an android developer and  contributed to Kindle 📕 as an ACMS intern. 
+- A computer science engineer 🎓 having experience working in the financial services industry 💸 as a developer, a home automation startup as an android developer, the semiconductor industry, and  contributed to Kindle 📕 as an ACMS intern. 
 
 - Currently working with NLP (Natural Language Programming) for social media analytics and cyberbullying detection <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+  
+- Hackathons are one of my favorite ways to collaborate 🤝 and push the boundaries of creativity 🎨. I've had the opportunity to team up with amazing individuals 🌟 and even scored two wins! 🏆🎉 If you’re interested in collaborating on exciting projects 🚀, let’s connect and create something amazing together! 🌈
 
 - Know about more of my experiences at : :octocat: [My Resume](https://github.com/snigdhabose/Resume/raw/main/SnigdhaBose_Resume_2025_Github.pdf)
 
